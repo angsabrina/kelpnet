@@ -1,0 +1,10 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# model and/or weights
+weights.*
+.model
+
+# data
+.patches
+.data
